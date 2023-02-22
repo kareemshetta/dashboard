@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266593201545",
+    "project_id": "dashboard-ae10a",
+    "storage_bucket": "dashboard-ae10a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266593201545:android:a4e8fb349bc154b88a4558",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266593201545-4k9emkre6l6v7cvajsd8rliut21svu1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBztZEGy1LVPbAYV860WIWcWpKNdRmQ8Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266593201545-4k9emkre6l6v7cvajsd8rliut21svu1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
